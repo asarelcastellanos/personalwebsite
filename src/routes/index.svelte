@@ -1,10 +1,10 @@
-<section class="bg-white dark:bg-gray-900 h-full">
+<section class="bg-white dark:bg-gray-900 md:h-screen pt-2">
     <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Projects</h1>
-        <p class="mt-4 text-gray-500 xl:mt-6 dark:text-gray-300">
+        <h1 class="text-center text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Projects</h1>
+        <p class="text-center mt-4 text-gray-500 xl:mt-6 dark:text-gray-300">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus
         </p>
-        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
+        <div class="grid grid-cols-1 gap-8 pt-14 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
             <div class="space-y-3">
                 <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
