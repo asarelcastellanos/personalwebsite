@@ -1,8 +1,18 @@
-<nav class="bg-white shadow dark:bg-gray-800">
-    <div class="container flex items-center justify-center p-6 mx-auto text-gray-600 dark:text-gray-300">
-        <a href="/" class="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-gray-500 mx-1.5 sm:mx-6">home</a>
-        <a href="https://www.linkedin.com/in/asarelcastellanos/" target="_blank" class="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-gray-500 mx-1.5 sm:mx-6">linkedin</a>
-        <a href="https://github.com/AsarelCastellanos" target="_blank" class="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-gray-500 mx-1.5 sm:mx-6">github</a>
-        <button class="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-gray-500 mx-1.5 sm:mx-6">resume</button>
+<nav class="flex justify-center px-4 text-gray-800 bg-white dark:text-white dark:bg-gray-800">
+    <div class="container py-6">
+        <div class="flex flex-col items-center justify-between md:flex-row">
+            <div>
+                <a href="/" class="text-xl font-bold text-gray-800 dark:text-white hover:text-gray-700 dark:hover:text-gray-300">Asarel Castellanos</a>
+            </div>
+
+            <div class="flex mt-4 md:m-0">
+                <div class="-mx-4">
+                    <a href="/blog" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">blog</a>
+                    <a href="https://www.linkedin.com/in/asarelcastellanos/" target="_blank" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">linkedin</a>
+                    <a href="https://github.com/AsarelCastellanos" target ="_blank" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">github</a>
+                    <a href="/" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">resume</a>
+                </div>
+            </div>
+        </div>
     </div>
 </nav>
