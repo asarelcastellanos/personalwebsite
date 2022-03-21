@@ -1,7 +1,7 @@
 <script>
     import Introduction from "../components/introduction.svelte";
     import Projects from "../components/projects.svelte";
-    import MetaImage form "../assets/metaimage.png"
+    import MetaImage from "../assets/metaimage.png"
 </script>
 <svelte:head>
     <!-- Primary Meta Tags -->
