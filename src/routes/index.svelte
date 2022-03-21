@@ -6,6 +6,7 @@
     <!-- Primary Meta Tags -->
     <title>Asarel Castellanos's Personal Website</title>
     <meta name="title" content="Asarel Castellanos's Personal Website">
+    <meta name="author" content="Asarel Castellanos">
     <meta name="description" content="I am a Front-End / Web / MEAN Stack Developer. Eager to apply classroom learning with knowledge gained in a technical environment. An active and passionate volunteer with a focus on building socially conscious technologies.">
 
     <!-- Open Graph / Facebook -->
@@ -13,7 +14,7 @@
     <meta property="og:url" content="https://asarelcastellanos.com">
     <meta property="og:title" content="Asarel Castellanos's Personal Website">
     <meta property="og:description" content="I am a Front-End / Web / MEAN Stack Developer. Eager to apply classroom learning with knowledge gained in a technical environment. An active and passionate volunteer with a focus on building socially conscious technologies.">
-    <meta property="og:image" content="../assets/metaimage.png">
+    <meta name="image" property="og:image" content="../assets/metaimage.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
