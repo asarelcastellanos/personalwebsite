@@ -19,6 +19,7 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:creator" content="@asarelathome">
     <meta property="twitter:url" content="https://asarelcastellanos.com">    
     <meta property="twitter:title" content="Asarel Castellanos's Personal Website">
     <meta property="twitter:description" content="I am a Front-End / Web / MEAN Stack Developer. Eager to apply classroom learning with knowledge gained in a technical environment. An active and passionate volunteer with a focus on building socially conscious technologies.">
