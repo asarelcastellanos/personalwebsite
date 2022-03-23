@@ -1,5 +1,1 @@
-<script>
-	import PdfViewer from 'svelte-pdf';
-</script>
-
-<PdfViewer url="../assets/Resume.pdf" />
+<h1>working on this</h1>
