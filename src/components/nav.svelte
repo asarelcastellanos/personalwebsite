@@ -10,7 +10,7 @@
                     <a href="/blog" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">blog</a>
                     <a href="https://www.linkedin.com/in/asarelcastellanos/" target="_blank" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">linkedin</a>
                     <a href="https://github.com/AsarelCastellanos" target ="_blank" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">github</a>
-                    <a href="/" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">resume</a>
+                    <a href="/resume" class="px-4 text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-blue-700 dark:hover:text-gray-400">resume</a>
                 </div>
             </div>
         </div>
